@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Jaswant Singh Taur</title>
+    <link>https://jaswanttaur.github.io/www/post/</link>
+    <description>Recent content in Articles on Jaswant Singh Taur</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://jaswanttaur.github.io/www/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>React Native</title>
+      <link>https://jaswanttaur.github.io/www/post/aiml/</link>
+      <pubDate>Wed, 30 Dec 2020 06:00:16 -0500</pubDate>
+      
+      <guid>https://jaswanttaur.github.io/www/post/aiml/</guid>
+      <description>With react native you will get something in between. You can use the same techniques as with React in the web, you can use JSX, just replace with for example. Instead of CSS you can use the React Native Stylesheets which work similarly to CSS but different; for example there is no class hierarchy.</description>
+    </item>
+    
+    <item>
+      <title>Flutter</title>
+      <link>https://jaswanttaur.github.io/www/post/paper02/</link>
+      <pubDate>Wed, 09 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jaswanttaur.github.io/www/post/paper02/</guid>
+      <description>Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.</description>
+    </item>
+    
+    <item>
+      <title>Ionic - Mobile Application Design</title>
+      <link>https://jaswanttaur.github.io/www/post/paper01/</link>
+      <pubDate>Wed, 09 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jaswanttaur.github.io/www/post/paper01/</guid>
+      <description>One codebase. Any platform. Now in Vue.Angular.React. An open source mobile UI toolkit for building high quality, cross-platform native and web app experiences. Move faster with a single code base, running everywhere with JavaScript and the Web.</description>
+    </item>
+    
+  </channel>
+</rss>
