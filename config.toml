@@ -30,7 +30,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = "/images/favicon.ico"
-  site_logo = "http://code.gndec.ac.in/~cse_jaswanttaur/www/images/logo.png"
+  site_logo = "/images/logo.png"
   description = "Jaswant Taur: UI/UX Expert and Cloud Architect"
   facebook = "https://facebook.com/jaswanttaur"
   twitter = "https://twitter.com/jaswanttaur"
