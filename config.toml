@@ -31,7 +31,7 @@ enableRobotsTXT = true
 [params]
   title = "Jaswant Taur"
   favicon = "/images/favicon.ico"
-  profilePicture = "/images/profile-photo.jpg"
+  profilePicture = "https://jaswanttaur.github.io/www/images/logo.png"
   site_logo = "https://jaswanttaur.github.io/www/images/logo.png"
   description = "UI/UX Expert and Cloud Architect"
   facebook = "https://facebook.com/jaswanttaur"
