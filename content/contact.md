@@ -11,4 +11,4 @@ menu: main
 
 Contact via email `jaswant@gndec.ac.in`, Mobile `+91-96468 63063`
 
-{{< form-contact action="https://example.com"  >}}
+
