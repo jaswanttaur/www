@@ -29,10 +29,11 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
+  title = "Jaswant Taur"
   favicon = "/images/favicon.ico"
-  profilePicture = "https://jaswanttaur.github.io/www/images/logo.png"
+  profilePicture = "https://jaswanttaur.github.io/www/images/profile-photo.jpeg"
   site_logo = "https://jaswanttaur.github.io/www/images/logo.png"
-  description = "Jaswant Taur: UI/UX Expert and Cloud Architect"
+  description = "UI/UX Expert and Cloud Architect"
   facebook = "https://facebook.com/jaswanttaur"
   twitter = "https://twitter.com/jaswanttaur"
   instagram = "https://instagram.com/jaswanttaur"
