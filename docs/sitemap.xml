@@ -53,6 +53,11 @@
   
   <url>
     <loc>https://jaswanttaur.github.io/www/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jaswanttaur.github.io/www/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
